@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Go to Second Activity</string>
+    <string name="back_to_previous_activity">Back to Previous Activity</string>
+    <string name="go_to_secondfragment">Go to SecondFragment</string>
+    <string name="go_to_next_fragment">Go to next fragment</string>
+    <string name="pop_back_stack">Pop Back Stack</string>
+</resources>
